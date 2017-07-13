@@ -1,6 +1,6 @@
 ```
 
-# Implementação do Game - Bombardeador
+# Implementação do Game - Plataforma
 # Aluno : Marcus Antonio Sales Junior
 # Matricula : 201165251AC
 
