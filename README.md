@@ -6,11 +6,7 @@
 
 Controle
 PLAYER 1 :
-  ^
-  |
-<- ->
-  |
-  v
+<- ->    SPACE
 ```
 <p align="center">
   <img src="tela.png" width="100%"/>
